@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/abstractClasses/abstractClasses.iml" filepath="$PROJECT_DIR$/abstractClasses/abstractClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstractDemo/abstractDemo.iml" filepath="$PROJECT_DIR$/abstractDemo/abstractDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstractDemoTwo/abstractDemoTwo.iml" filepath="$PROJECT_DIR$/abstractDemoTwo/abstractDemoTwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/agmCodingAssigment/agmCodingAssigment.iml" filepath="$PROJECT_DIR$/agmCodingAssigment/agmCodingAssigment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrayListDemo/arrayListDemo.iml" filepath="$PROJECT_DIR$/arrayListDemo/arrayListDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrayListDemoTwo/arrayListDemoTwo.iml" filepath="$PROJECT_DIR$/arrayListDemoTwo/arrayListDemoTwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrayListTypedDemo/arrayListTypedDemo.iml" filepath="$PROJECT_DIR$/arrayListTypedDemo/arrayListTypedDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrayListWithClass/arrayListWithClass.iml" filepath="$PROJECT_DIR$/arrayListWithClass/arrayListWithClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrayListWithClassTwo/arrayListWithClassTwo.iml" filepath="$PROJECT_DIR$/arrayListWithClassTwo/arrayListWithClassTwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arraysDemo/arraysDemo.iml" filepath="$PROJECT_DIR$/arraysDemo/arraysDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classes/classes.iml" filepath="$PROJECT_DIR$/classes/classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classesFive/classesFive.iml" filepath="$PROJECT_DIR$/classesFive/classesFive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classesFour/classesFour.iml" filepath="$PROJECT_DIR$/classesFour/classesFour.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classesThree/classesThree.iml" filepath="$PROJECT_DIR$/classesThree/classesThree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classesTwo/classesTwo.iml" filepath="$PROJECT_DIR$/classesTwo/classesTwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classesWithAttributes/classesWithAttributes.iml" filepath="$PROJECT_DIR$/classesWithAttributes/classesWithAttributes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classesWithAttributesTwo/classesWithAttributesTwo.iml" filepath="$PROJECT_DIR$/classesWithAttributesTwo/classesWithAttributesTwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conditionals/conditionals.iml" filepath="$PROJECT_DIR$/conditionals/conditionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datatypes/datatypes.iml" filepath="$PROJECT_DIR$/datatypes/datatypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dbHelperDemo/dbHelperDemo.iml" filepath="$PROJECT_DIR$/dbHelperDemo/dbHelperDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dbHelperDemoTwo/dbHelperDemoTwo.iml" filepath="$PROJECT_DIR$/dbHelperDemoTwo/dbHelperDemoTwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/expectionHandling/expectionHandling.iml" filepath="$PROJECT_DIR$/expectionHandling/expectionHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/expectionHandlingDemo/expectionHandlingDemo.iml" filepath="$PROJECT_DIR$/expectionHandlingDemo/expectionHandlingDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/expectionHandlingDemoTwo/expectionHandlingDemoTwo.iml" filepath="$PROJECT_DIR$/expectionHandlingDemoTwo/expectionHandlingDemoTwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics/generics.iml" filepath="$PROJECT_DIR$/generics/generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/genericsDemo/genericsDemo.iml" filepath="$PROJECT_DIR$/genericsDemo/genericsDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashMapDemo/hashMapDemo.iml" filepath="$PROJECT_DIR$/hashMapDemo/hashMapDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashMapDemoTwo/hashMapDemoTwo.iml" filepath="$PROJECT_DIR$/hashMapDemoTwo/hashMapDemoTwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/inheritance/inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritanceDemo/inheritanceDemo.iml" filepath="$PROJECT_DIR$/inheritanceDemo/inheritanceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfaces/interfaces.iml" filepath="$PROJECT_DIR$/interfaces/interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfacesMultiImplement/interfacesMultiImplement.iml" filepath="$PROJECT_DIR$/interfacesMultiImplement/interfacesMultiImplement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaHelloWord/javaHelloWord.iml" filepath="$PROJECT_DIR$/javaHelloWord/javaHelloWord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/javademos.iml" filepath="$PROJECT_DIR$/.idea/javademos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbcIntro/jdbcIntro.iml" filepath="$PROJECT_DIR$/jdbcIntro/jdbcIntro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lambdaExpressionDemo/lambdaExpressionDemo.iml" filepath="$PROJECT_DIR$/lambdaExpressionDemo/lambdaExpressionDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loopDemo/loopDemo.iml" filepath="$PROJECT_DIR$/loopDemo/loopDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miniProjectFindNumber/miniProjectFindNumber.iml" filepath="$PROJECT_DIR$/miniProjectFindNumber/miniProjectFindNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miniProjectPerfectNumber/miniProjectPerfectNumber.iml" filepath="$PROJECT_DIR$/miniProjectPerfectNumber/miniProjectPerfectNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miniProjectPrimeNumber/miniProjectPrimeNumber.iml" filepath="$PROJECT_DIR$/miniProjectPrimeNumber/miniProjectPrimeNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multiDimensionalArrayDemo/multiDimensionalArrayDemo.iml" filepath="$PROJECT_DIR$/multiDimensionalArrayDemo/multiDimensionalArrayDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/overriding/overriding.iml" filepath="$PROJECT_DIR$/overriding/overriding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packagesDemo/packagesDemo.iml" filepath="$PROJECT_DIR$/packagesDemo/packagesDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packagesDemoTwo/packagesDemoTwo.iml" filepath="$PROJECT_DIR$/packagesDemoTwo/packagesDemoTwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/polymorphismDemo/polymorphismDemo.iml" filepath="$PROJECT_DIR$/polymorphismDemo/polymorphismDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/polymorphismDemoTwo/polymorphismDemoTwo.iml" filepath="$PROJECT_DIR$/polymorphismDemoTwo/polymorphismDemoTwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reCapDemo_Classes/reCapDemo_Classes.iml" filepath="$PROJECT_DIR$/reCapDemo_Classes/reCapDemo_Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/readingFileDemo/readingFileDemo.iml" filepath="$PROJECT_DIR$/readingFileDemo/readingFileDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/readingFileDemoThree/readingFileDemoThree.iml" filepath="$PROJECT_DIR$/readingFileDemoThree/readingFileDemoThree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/readingFileDemoTwo/readingFileDemoTwo.iml" filepath="$PROJECT_DIR$/readingFileDemoTwo/readingFileDemoTwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/repositortyDesignPattern/repositortyDesignPattern.iml" filepath="$PROJECT_DIR$/repositortyDesignPattern/repositortyDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/repositoryDesignDemo/repositoryDesignDemo.iml" filepath="$PROJECT_DIR$/repositoryDesignDemo/repositoryDesignDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stringsDemo/stringsDemo.iml" filepath="$PROJECT_DIR$/stringsDemo/stringsDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/switchDemo/switchDemo.iml" filepath="$PROJECT_DIR$/switchDemo/switchDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threadingDemo/threadingDemo.iml" filepath="$PROJECT_DIR$/threadingDemo/threadingDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/throwDemo/throwDemo.iml" filepath="$PROJECT_DIR$/throwDemo/throwDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/throwDemoTwo/throwDemoTwo.iml" filepath="$PROJECT_DIR$/throwDemoTwo/throwDemoTwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/variableArguments/variableArguments.iml" filepath="$PROJECT_DIR$/variableArguments/variableArguments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workingWithFiles/workingWithFiles.iml" filepath="$PROJECT_DIR$/workingWithFiles/workingWithFiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workingWithFilesDemo/workingWithFilesDemo.iml" filepath="$PROJECT_DIR$/workingWithFilesDemo/workingWithFilesDemo.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,4 @@
+Ad :Furkan
+Soyad :Arıca
+Yaş :23
+Boy :1.83
